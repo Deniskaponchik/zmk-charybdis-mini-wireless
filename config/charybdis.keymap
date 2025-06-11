@@ -107,10 +107,10 @@
 
         BASE {
             bindings = <
-&u_mt LS(GRAVE) Q  &u_mt EXCL W      &u_mt AT E        &u_mt NUMBER_3 R  &u_mt LS(NUMBER_4) T  &u_mt PERCENT Y    &u_mt LS(NUMBER_6) U  &u_mt LS(N7) I      &u_mt KP_ASTERISK O  &u_mt MINUS P             &u_mt HOME LEFT_BRACKET     &kp BSPC
-&u_mt ESCAPE A     &u_mt LEFT_GUI S  &u_mt LEFT_ALT D  &u_mt LCTRL F     &u_mt LEFT_SHIFT G    &kp H              &u_mt ENTER J         &u_mt LEFT_SHIFT K  &u_mt RCTRL K        &u_mt LEFT_ALT SEMICOLON  &u_mt RIGHT_GUI APOSTROPHE  &kp DELETE
-&mo 5              &u_mt LA(F4) Z    &kp X             &kp C             &kp V                 &kp B              &kp N                 &kp M               &kp COMMA            &kp DOT                   &kp FSLH                    &mo 5
-                                                       &mo 1             &kp SPACE             &mkp LCLK          &mo 2                 &kp RET
+&u_mt LS(GRAVE) Q  &u_mt EXCL W      &u_mt AT E        &u_mt NUMBER_3 R  &u_mt LS(NUMBER_4) T  &u_mt PERCENT Y    &u_mt LS(NUMBER_6) U  &u_mt LS(N7) I       &u_mt KP_ASTERISK O           &u_mt MINUS P                &u_mt HOME LEFT_BRACKET     &kp BSPC
+&u_mt ESCAPE A     &u_mt LEFT_GUI S  &u_mt LEFT_ALT D  &u_mt LCTRL F     &u_mt LEFT_SHIFT G    &kp H              &u_mt ENTER J         &u_mt LEFT_SHIFT K   &u_mt RCTRL K                 &u_mt LEFT_ALT SEMICOLON     &u_mt RIGHT_GUI APOSTROPHE  &kp DELETE
+&mo 5              &u_mt LA(F4) Z    &kp X             &kp C             &kp V                 &kp B              &kp N                 &u_mt PAUSE_BREAK M  &u_mt LEFT_PARENTHESIS COMMA  &u_mt RIGHT_PARENTHESIS DOT  &u_mt END FSLH              &u_mt PRINTSCREEN RIGHT_BRACKET
+                                                       &mo 1             &kp SPACE             &mkp LCLK          &kp TAB               &mo 2
             >;
         };
 
