@@ -107,10 +107,10 @@
 
         BASE {
             bindings = <
-&u_mt LS(GRAVE) Q  &u_mt EXCL W      &u_mt AT E        &u_mt HASH R   &u_mt DOLLAR T      &u_mt PERCENT Y    &kp Y  &kp U               &kp I          &kp O              &kp P                 &kp BSPC
-&u_mt ESCAPE A     &u_mt LEFT_GUI S  &u_mt LEFT_ALT D  &u_mt LCTRL F  &u_mt LEFT_SHIFT G  &kp H              &kp H  &u_mt LEFT_SHIFT J  &u_mt RCTRL K  &u_mt RIGHT_ALT L  &u_mt RIGHT_GUI SEMI  &kp APOS
-&mo 5              &u_mt LA(F4) Z    &kp X             &kp C          &kp V               &kp B              &kp N  &kp M               &kp COMMA      &kp DOT            &kp FSLH              &mo 5
-                                                       &mo 1          &kp SPACE           &mkp LCLK          &mo 2  &kp RET
+&u_mt LS(GRAVE) Q  &u_mt EXCL W      &u_mt AT E        &u_mt NUMBER_3 R  &u_mt LS(NUMBER_4) T  &u_mt PERCENT Y    &u_mt LS(NUMBER_6) U  &u_mt LS(N7) I      &u_mt KP_ASTERISK O  &u_mt MINUS P      &u_mt HOME LEFT_BRACKET  &kp BSPC
+&u_mt ESCAPE A     &u_mt LEFT_GUI S  &u_mt LEFT_ALT D  &u_mt LCTRL F     &u_mt LEFT_SHIFT G    &kp H              &kp H                 &u_mt LEFT_SHIFT J  &u_mt RCTRL K        &u_mt RIGHT_ALT L  &u_mt RIGHT_GUI SEMI     &kp APOS
+&mo 5              &u_mt LA(F4) Z    &kp X             &kp C             &kp V                 &kp B              &kp N                 &kp M               &kp COMMA            &kp DOT            &kp FSLH                 &mo 5
+                                                       &mo 1             &kp SPACE             &mkp LCLK          &mo 2                 &kp RET
             >;
         };
 
