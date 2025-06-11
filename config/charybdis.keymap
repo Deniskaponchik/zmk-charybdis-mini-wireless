@@ -116,9 +116,9 @@
 
         NAV {
             bindings = <
-&kp F1  &kp F2    &kp UP    &trans     &trans          &trans       &u_mt LA(NUMBER_1) KP_NUMBER_7  &u_mt LA(NUMBER_2) KP_NUMBER_8  &kp N9          &kp N0  &kp HOME  &kp F1
-&trans  &kp LEFT  &kp DOWN  &kp RIGHT  &kp LEFT_SHIFT  &kp ENTER    &kp N4                          &u_mt RIGHT_SHIFT N5            &u_mt RCTRL N6  &trans  &trans    &kp F10
-&trans  &trans    &trans    &trans     &trans          &trans       &kp N1                          &kp N2                          &kp N3          &trans  &trans    &kp F20
+&kp F1  &kp F2    &kp UP    &trans     &trans          &trans       &u_mt LA(NUMBER_1) KP_NUMBER_7  &u_mt LA(NUMBER_2) KP_NUMBER_8  &u_mt LA(NUMBER_3) KP_NUMBER_9  &kp N0  &kp HOME  &kp F1
+&trans  &kp LEFT  &kp DOWN  &kp RIGHT  &kp LEFT_SHIFT  &kp ENTER    &u_mt LA(Q) KP_NUMBER_4         &u_mt LA(W) N5                  &u_mt LA(E) N6                  &trans  &trans    &kp F10
+&trans  &trans    &trans    &trans     &trans          &trans       &u_mt LA(A) KP_NUMBER_1         &u_mt LA(S) KP_NUMBER_2         &u_mt LA(D) KP_NUMBER_3         &trans  &trans    &kp F20
                             &trans     &trans          &trans       &lt 3 BACKSPACE                 &kp LSHFT
             >;
         };
